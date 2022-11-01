@@ -6,6 +6,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioFG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></div>
   
 <p><hr>
+  
+<div align=center>
+  <h3>↓ My contribution ↓ </h3>
+  
+  ![snake gif](https://github.com/CaioFG/CaioFG/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
+<hr>
     
 <div align=center>
   <b>Visitor Counter:</b>
@@ -14,9 +22,3 @@
 </div>
   
 <hr>
-  
-<div align=center>
-  <h3>↓ My contribution ↓ </h3>
-  
-  ![snake gif](https://github.com/CaioFG/CaioFG/blob/output/github-contribution-grid-snake.svg)
-</div>
